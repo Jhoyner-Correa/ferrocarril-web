@@ -187,8 +187,8 @@ if ($result) {
 <body>
 
     <div class="header">
-        <h1>Sistema Ferrocarril</h1>
-        <p>Panel web de clientes en tiempo real</p>
+        <h1>CRUD-CLIENTES</h1>
+        <p>DATOS EN TIEMPO REAL CON EL APK DE ANDROID</p>
     </div>
 
     <div class="container">
@@ -248,7 +248,7 @@ if ($result) {
     </div>
 
     <div class="footer">
-        Proyecto Android + PHP + MySQL | Panel de visualización
+        Proyecto Android  + MySQL | JHOYNER CORREA HINOSTROZA
     </div>
 
 </body>
